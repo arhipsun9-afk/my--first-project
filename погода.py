@@ -100,3 +100,4 @@ except requests.exceptions.RequestException as e:
 
 except Exception as e:
     print("Ошибка обработки данных:", e)
+print("good boy")
